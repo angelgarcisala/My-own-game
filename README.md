@@ -3,11 +3,6 @@
 <p align="center">
   A simple 2D shooter prototype in Python — player movement, shooting logic, and keyboard interaction.
 </p>
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Preview+Coming+Soon" width="600" alt="Game Preview"/>
-</div>
-
 ---
 
 ## Overview
