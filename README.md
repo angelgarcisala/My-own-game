@@ -1,32 +1,45 @@
-# 🕹️ My Own Game
+<h1 align="center">My Own Game</h1>
 
-**My Own Game** is a simple 2D shooter prototype developed in Python.  
-It features two movable square characters that can shoot each other using keyboard controls.  
-The project is currently in early development and serves as a foundation for experimenting with game mechanics, collision detection, and real-time input handling.
+<p align="center">
+  A simple 2D shooter prototype in Python — player movement, shooting logic, and keyboard interaction.
+</p>
 
----
-
-## 🎮 Gameplay Features
-
-- 🔹 Two-player control (keyboard-based)
-- 🔫 Basic shooting logic
-- 🧱 Square-shaped characters for simplicity
-- ⏱️ Frame-by-frame movement updates
-- 🧪 Experimental features in progress
-
-> ⚠️ This is a learning project and still under development. Expect bugs and minimal UI.
+<div align="center">
+  <img src="https://via.placeholder.com/600x300.png?text=Preview+Coming+Soon" width="600" alt="Game Preview"/>
+</div>
 
 ---
 
-## 🧠 Technologies
+## Overview
 
-- **Python 3.10+**
-- *(Optional)* Pygame or tkinter (depending on the direction you extend the project)
-- Native Python modules (`time`, `keyboard`, etc.)
+**My Own Game** is a minimal 2D shooter built from scratch using Python.  
+The project is designed as a personal experiment to explore basic game mechanics like movement, key detection, and bullet logic — all without external game engines.
+
+It's ideal for learning fundamental game loop concepts and event-driven programming in Python.
 
 ---
 
-## 🚀 Getting Started
+## Features
+
+- Dual square characters with real-time movement
+- Simple keyboard-based shooting system
+- Independent bullet handling
+- Basic collision boundaries and frame refresh logic
+- Modular code structure for future expansion
+
+---
+
+## Technologies
+
+- Python 3.10+
+- Standard libraries (`keyboard`, `time`, etc.)
+- (Optional for future expansion: `pygame`)
+
+---
+
+## Installation
+
+Clone the repository and run:
 
 ```bash
 git clone https://github.com/angelgarcisala/My-own-game.git
